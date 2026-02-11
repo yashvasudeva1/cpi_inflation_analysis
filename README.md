@@ -8,7 +8,7 @@ A production-grade data analytics and machine learning web application for analy
 
 ## Live Demo
 
-**Deployed Application:** [View Live Dashboard](https://your-render-url.onrender.com)
+**Deployed Application:** [View Live Dashboard](https://cpi-inflation-analysis.onrender.com/)
 
 ---
 
@@ -271,3 +271,4 @@ Data and AI Professional with expertise in Data Analytics, Machine Learning, and
 ## License
 
 This project is open source and available under the MIT License.
+
