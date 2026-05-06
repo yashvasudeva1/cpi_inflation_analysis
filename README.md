@@ -8,7 +8,7 @@ A production-grade data analytics and machine learning web application for analy
 
 ## Live Demo
 
-**Deployed Application:** [View Live Dashboard](https://your-render-url.onrender.com)
+**Deployed Application:** [View Live Dashboard]([https://your-render-url.onrender.com](https://cpi-inflation-analysis.onrender.com/))
 
 ---
 
